@@ -7,5 +7,6 @@
 ## Script Core
 
 ### [🛁 Clean Code concepts adapted for JavaScript - 한글 번역판 🇰🇷](https://github.com/qkraudghgh/clean-code-javascript-ko)
+### [Typescript Release Note](https://devblogs.microsoft.com/typescript/)
 
 ## React
