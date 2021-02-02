@@ -11,3 +11,6 @@
 - [↗️ Typescript Release Note](https://devblogs.microsoft.com/typescript/)
 
 ## React
+
+## Cheat Sheet
+- [📄 emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
