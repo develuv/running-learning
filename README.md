@@ -13,4 +13,4 @@
 ## React
 
 ## Cheat Sheet
-- [📄 emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [📄 A markdown version emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
