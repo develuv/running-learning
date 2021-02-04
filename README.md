@@ -16,3 +16,6 @@
 
 ## Cheat Sheet
 - [📄 A markdown version emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+## Blog & Magazines
+- [↗️ Guides to Web Design and Development](https://www.smashingmagazine.com/guides/)
