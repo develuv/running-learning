@@ -6,7 +6,7 @@
 
 ## Script Core
 
-- [📄	Clean Code concepts adapted for JavaScript - 한글 번역판 🇰🇷](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md)
+- [📄	Clean Code Javascript](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md)
 - [📄	What the f*ck JavaScript](https://github.com/denysdovhan/wtfjs/blob/master/README.md)
 - [📄 You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore/blob/master/README.md)
 - [📄 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.md)
