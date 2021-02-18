@@ -12,6 +12,7 @@
 - [📄 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.md)
 - [📄 JavaScript 알고리즘 및 자료 구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [↗️ Typescript Release Note](https://devblogs.microsoft.com/typescript/)
+- [↗️ 30 seconds of code](https://www.30secondsofcode.org/)
 
 ## React
 
