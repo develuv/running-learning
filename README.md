@@ -13,9 +13,6 @@
 - [📄 JavaScript 알고리즘 및 자료 구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [↗️ Typescript Release Note](https://devblogs.microsoft.com/typescript/)
 
-
-## React
-
 ## Cheat Sheet
 - [📄 Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
