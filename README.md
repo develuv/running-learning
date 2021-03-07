@@ -25,7 +25,7 @@
 - [↗️ Front Check List](https://frontendchecklist.io/)
 
 
-## study schedule [↗️](study/blob/main/README.md)
+## study schedule [↗️](/study/blob/main/README.md)
 
 * ground rule : 
 * cycle : 1 week (수요일) 
