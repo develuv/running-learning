@@ -25,10 +25,11 @@
 - [↗️ Front Check List](https://frontendchecklist.io/)
 
 
-## study schedule
+## study schedule [↗️](study/blob/main/README.md)
 
 * ground rule : 
 * cycle : 1 week (수요일) 
 * order : 동주 - 상훈 - 희준 - 재섭 - 성광
 * 관심사 : Typescript, react, tdd & refactoring, docker, aws, graphQL
+
 
