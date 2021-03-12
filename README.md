@@ -28,5 +28,6 @@
 - [↗️ Linear - Issue Tracking](https://linear.app/)
 - [↗️ Metro Retro - Idea Board](https://metroretro.io/)
 - [↗️ CoScreen - Screen Sharing](https://metroretro.io/)
+- [↗️ CodeStream - Fast PR's](https://www.codestream.com/)
 
 ## [study schedule](https://github.com/develuv/study/blob/main/README.md)
