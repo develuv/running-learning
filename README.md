@@ -24,5 +24,7 @@
 ## Web inspect
 - [↗️ Front Check List](https://frontendchecklist.io/)
 
+## Tools
+- [↗️ Linear - Issue Tracking](https://linear.app/)
 
 ## [study schedule](https://github.com/develuv/study/blob/main/README.md)
