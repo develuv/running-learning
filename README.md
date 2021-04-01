@@ -16,6 +16,7 @@
 
 ## React
 - [↗️ React Patterns](https://reactpatterns.com/)
+- [↗️ Use Hooks](https://usehooks.com/)
 
 ## Cheat Sheet
 - [📄 Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
