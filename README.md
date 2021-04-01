@@ -14,6 +14,9 @@
 - [📄 Awesome TypeScript Korean](https://github.com/typescript-kr/awesome-typescript-korean)
 - [↗️ Typescript Release Note](https://devblogs.microsoft.com/typescript/)
 
+## React
+- [↗️ React Patterns](https://reactpatterns.com/)
+
 ## Cheat Sheet
 - [📄 Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
