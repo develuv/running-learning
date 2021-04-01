@@ -15,8 +15,9 @@
 - [↗️ Typescript Release Note](https://devblogs.microsoft.com/typescript/)
 
 ## React
-- [↗️ React Patterns](https://reactpatterns.com/)
+- [📄 awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks/blob/master/README.md)
 - [↗️ Use Hooks](https://usehooks.com/)
+- [↗️ React Patterns](https://reactpatterns.com/)
 
 ## Cheat Sheet
 - [📄 Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
