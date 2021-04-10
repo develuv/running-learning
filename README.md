@@ -12,6 +12,7 @@
 - [📄 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.md)
 - [📄 JavaScript 알고리즘 및 자료 구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [📄 Awesome TypeScript Korean](https://github.com/typescript-kr/awesome-typescript-korean)
+- [📄 Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [↗️ Typescript Release Note](https://devblogs.microsoft.com/typescript/)
 
 ## React
