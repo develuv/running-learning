@@ -36,7 +36,7 @@
 - [↗️ CoScreen - Screen Sharing](https://metroretro.io/)
 - [↗️ CodeStream - Fast PR's](https://www.codestream.com/)
 - [↗️ Framer - Design Prototyping](https://www.framer.com/)
-- [↗️ curioustore - Naming](https://www.curioustore.com/#!/)
+- [↗️ curioustore - Naming](https://www.curioustore.com/)
 
 ## [study schedule](https://github.com/develuv/study/blob/main/README.md)
 
