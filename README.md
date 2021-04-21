@@ -36,11 +36,12 @@
 - [↗️ CoScreen - Screen Sharing](https://metroretro.io/)
 - [↗️ CodeStream - Fast PR's](https://www.codestream.com/)
 - [↗️ Framer - Design Prototyping](https://www.framer.com/)
+- [↗️ curioustore - Naming](https://www.curioustore.com/#!/)
 
 ## [study schedule](https://github.com/develuv/study/blob/main/README.md)
 
 ## 패키지 도입 가이드
-- eslint: [↗️ Getting Started - Linting your TypeScript Codebase
+- eslint: [📄 Getting Started - Linting your TypeScript Codebase
 ](https://github.com/typescript-eslint/typescript-eslint/blob/master/docs/getting-started/linting/README.md)
 
 ## CSS
