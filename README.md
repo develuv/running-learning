@@ -15,6 +15,7 @@
 - [📄 Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [↗️ Typescript Release Note](https://devblogs.microsoft.com/typescript/)
 - [↗️ Typescript Release Overview](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html)
+- [↗️ Modern Javascript Info](https://ko.javascript.info/)
 
 ## React
 - [📄 awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks/blob/master/README.md)
