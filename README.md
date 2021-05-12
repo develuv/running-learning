@@ -29,6 +29,9 @@
 - [↗️ Guides to Web Design and Development](https://www.smashingmagazine.com/guides/)
 - [↗️ 30 seconds of code](https://www.30secondsofcode.org/)
 
+## Tech Blog
+- [Toss](https://toss.tech/)
+
 ## Web inspect
 - [↗️ Front Check List](https://frontendchecklist.io/)
 
