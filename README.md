@@ -19,6 +19,7 @@
 
 ## React
 - [📄 awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks/blob/master/README.md)
+- [📄 React-use](https://reactpatterns.com/)
 - [↗️ Use Hooks](https://usehooks.com/)
 - [↗️ React Patterns](https://reactpatterns.com/)
 
