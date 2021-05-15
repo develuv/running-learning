@@ -51,4 +51,5 @@
 ](https://github.com/typescript-eslint/typescript-eslint/blob/master/docs/getting-started/linting/README.md)
 
 ## CSS
-- [↗️ flex playground](https://codepen.io/enxaneta/full/adLPwv)
+- [↗️ Flex Playground](https://codepen.io/enxaneta/full/adLPwv)
+- [↗️ Css Triggers](https://csstriggers.com/)
