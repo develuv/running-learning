@@ -54,4 +54,4 @@
 - [↗️ Flex Playground](https://codepen.io/enxaneta/full/adLPwv)
 - [↗️ Css Triggers](https://csstriggers.com/)
 - [↗️ Learn Css](https://web.dev/learn/css/)
-- [↗️ Learn grid](https://www.euismod.dev/)
+- [↗️ Learn Grid](https://www.euismod.dev/)
