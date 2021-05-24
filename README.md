@@ -17,6 +17,7 @@
 - [↗️ Typescript Release Overview](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html)
 - [↗️ Modern Javascript Info](https://ko.javascript.info/)
 - [↗️ Regex One](https://regexone.com/)
+- [↗️ Regex One2](https://regexone.com/problem/matching_decimal_numbers)
 
 ## React
 - [📄 awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks/blob/master/README.md)
