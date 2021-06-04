@@ -45,6 +45,7 @@
 - [↗️ CodeStream - Fast PR's](https://www.codestream.com/)
 - [↗️ Framer - Design Prototyping](https://www.framer.com/)
 - [↗️ curioustore - Naming](https://www.curioustore.com/)
+- [↗️ MockApi](https://mockapi.io/)
 
 ## [study schedule](https://github.com/develuv/study/blob/main/README.md)
 
