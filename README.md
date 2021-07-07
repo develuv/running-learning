@@ -27,6 +27,7 @@
 
 ## Cheat Sheet
 - [📄 Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [↗️ Gitmoji](https://gitmoji.dev/)
 
 ## Blog & Magazines
 - [↗️ Guides to Web Design and Development](https://www.smashingmagazine.com/guides/)
