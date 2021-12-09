@@ -15,6 +15,7 @@
 - [📄 Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [↗️ Typescript Release Note](https://devblogs.microsoft.com/typescript/)
 - [↗️ Typescript Release Overview](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html)
+- [↗️ Typescript tsconfig](https://www.typescriptlang.org/tsconfig)
 - [↗️ Modern Javascript Info](https://ko.javascript.info/)
 - [↗️ Regex One](https://regexone.com/)
 - [↗️ Regex One2](https://regexone.com/problem/matching_decimal_numbers)
