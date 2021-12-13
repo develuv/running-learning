@@ -62,3 +62,4 @@
 - [↗️ Css Triggers](https://csstriggers.com/)
 - [↗️ Learn Css](https://web.dev/learn/css/)
 - [↗️ Learn Grid](https://www.euismod.dev/)
+- [↗️ easings](https://easings.net/)
